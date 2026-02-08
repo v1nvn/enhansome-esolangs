@@ -229,7 +229,7 @@
             "last_commit": "2021-12-20T00:23:33Z",
             "owner": "rottytooth",
             "repo": "Folders",
-            "stars": 385
+            "stars": 386
           }
         },
         {
@@ -596,7 +596,7 @@
             "last_commit": "2023-09-08T09:40:31Z",
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6591
+            "stars": 6592
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23187
+            "stars": 23218
           }
         },
         {
@@ -635,7 +635,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 64685
+            "stars": 64689
           }
         },
         {
@@ -653,7 +653,7 @@
             "last_commit": "2022-07-19T16:09:42Z",
             "owner": "madrobby",
             "repo": "vapor.js",
-            "stars": 1399
+            "stars": 1400
           }
         }
       ],
@@ -661,10 +661,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:20:07.085Z",
+    "last_updated": "2026-02-08T04:31:38.518Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "source_repository": "v1nvn/enhansome-esolangs",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Esolangs with stars"
   }
 }
