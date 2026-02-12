@@ -25,13 +25,13 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Monicelli](https://github.com/esseks/monicelli) ⭐ 1,378 | 🐛 20 | 🌐 C++ | 📅 2025-11-23 - Programming using Italian-like gibberish.
 * [Jelly](https://github.com/DennisMitchell/jellylanguage) ⭐ 904 | 🐛 22 | 🌐 Python | 📅 2020-09-02 - Golfing language based on J.
 * [Folders](https://github.com/rottytooth/Folders) ⭐ 386 | 🐛 1 | 🌐 C# | 📅 2021-12-20 - Code written with folders.
-* [Watson](https://github.com/genkami/watson) ⭐ 269 | 🐛 11 | 🌐 Go | 📅 2025-12-20 - Stack-based Turing-incomplete configuration files.
+* [Watson](https://github.com/genkami/watson) ⭐ 269 | 🐛 11 | 🌐 Go | 📅 2026-02-11 - Stack-based Turing-incomplete configuration files.
 * [Charcoal](https://github.com/somebody1234/Charcoal) ⭐ 226 | 🐛 1 | 🌐 Python | 📅 2024-12-05 - Concise language for sketching ASCII art.
 * [FlipJump](https://github.com/tomhea/flip-jump) ⭐ 131 | 🐛 13 | 🌐 Text | 📅 2025-01-11 - 1 instruction: Flip a bit, then Jump. The simplest OISC.
 * [FreakC](https://github.com/FreakC-Foundation/FreakC) ⭐ 130 | 🐛 1 | 🌐 Batchfile | 📅 2025-12-04 - Full-blown programming language with NSFW contents and memes.
 * [Electra](https://github.com/DolphyWind/Electra-Lang) ⭐ 99 | 🐛 1 | 🌐 C++ | 📅 2025-11-22 - Code like an electrician.
 * [Rockstar](https://github.com/dylanbeattie/rockstar) ⭐ 90 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-15 - Designed for creating computer programs that are also song lyrics.
-* [Japt](https://github.com/ETHproductions/japt) ⭐ 75 | 🐛 21 | 🌐 JavaScript | 📅 2021-05-27 - Reduced JavaScript for golfing.
+* [Japt](https://github.com/ETHproductions/japt) ⭐ 76 | 🐛 21 | 🌐 JavaScript | 📅 2021-05-27 - Reduced JavaScript for golfing.
 * [Thue](https://github.com/jcolag/Thue) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2025-10-09 - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
 * [ChuckScript](https://github.com/angrykoala/chuckscript) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03 - Unary-based language, where the code is a single number.
 * [C Flat](https://github.com/NicksterSand/Cflat) ⭐ 29 | 🐛 1 | 🌐 C | 📅 2021-01-01 - Musical language focused on sound rather than notation with creative freedom in mind.
@@ -89,13 +89,13 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Algorithms
 
-* [πfs](https://github.com/philipl/pifs) ⭐ 6,863 | 🐛 56 | 🌐 C | 📅 2019-12-31 - Pi-based storage system, store your data by searching a matching sequence in pi.
+* [πfs](https://github.com/philipl/pifs) ⭐ 6,865 | 🐛 56 | 🌐 C | 📅 2019-12-31 - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 64,699 | 🐛 4,634 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,255 | 🐛 538 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 64,707 | 🐛 4,635 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,256 | 🐛 538 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,593 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,404 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 530 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
