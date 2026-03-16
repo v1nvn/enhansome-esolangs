@@ -34,7 +34,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Japt](https://github.com/ETHproductions/japt) ⭐ 76 | 🐛 21 | 🌐 JavaScript | 📅 2021-05-27 - Reduced JavaScript for golfing.
 * [Thue](https://github.com/jcolag/Thue) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2025-10-09 - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
 * [ChuckScript](https://github.com/angrykoala/chuckscript) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03 - Unary-based language, where the code is a single number.
-* [C Flat](https://github.com/NicksterSand/Cflat) ⭐ 29 | 🐛 1 | 🌐 C | 📅 2021-01-01 - Musical language focused on sound rather than notation with creative freedom in mind.
+* [C Flat](https://github.com/NicksterSand/Cflat) ⭐ 30 | 🐛 1 | 🌐 C | 📅 2021-01-01 - Musical language focused on sound rather than notation with creative freedom in mind.
 * [AlmostBinary](https://github.com/wsdt/AlmostBinary) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2023-03-31 - Code in binary and run on any platform.
 * [CellTail](https://github.com/mousetail/celltail) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-09-19 - A 1d celular automata based language, supports a complex pattern matching syntax.
 * [Suzy](https://github.com/gvx/suzy) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2009-11-04 - 3D language inspired in Befunge.
@@ -89,13 +89,13 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Algorithms
 
-* [πfs](https://github.com/philipl/pifs) ⭐ 6,874 | 🐛 56 | 🌐 C | 📅 2019-12-31 - Pi-based storage system, store your data by searching a matching sequence in pi.
+* [πfs](https://github.com/philipl/pifs) ⭐ 6,876 | 🐛 56 | 🌐 C | 📅 2019-12-31 - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 64,997 | 🐛 4,680 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,524 | 🐛 542 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,006 | 🐛 4,681 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,526 | 🐛 542 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,592 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,404 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 534 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
