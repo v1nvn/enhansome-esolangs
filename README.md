@@ -19,7 +19,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 ## Languages
 
 * [JSFuck](https://github.com/aemkei/jsfuck) ⭐ 8,578 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Esoteric programming style based on the atomic parts of JavaScript.
-* [Vigil](https://github.com/munificent/vigil) ⭐ 3,027 | 🐛 26 | 🌐 Python | 📅 2022-09-26 - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
+* [Vigil](https://github.com/munificent/vigil) ⭐ 3,026 | 🐛 26 | 🌐 Python | 📅 2022-09-26 - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) ⭐ 1,619 | 🐛 34 | 🌐 JavaScript | 📅 2023-05-08 - Non deterministic unnecessarily statically typed language.
 * [Fetlang](https://github.com/Property404/fetlang) ⭐ 1,497 | 🐛 10 | 🌐 C++ | 📅 2024-05-02 - Designed such that source code looks like poorly written fetish erotica.
 * [Monicelli](https://github.com/esseks/monicelli) ⭐ 1,379 | 🐛 20 | 🌐 C++ | 📅 2025-11-23 - Programming using Italian-like gibberish.
@@ -94,8 +94,8 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,006 | 🐛 4,681 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,526 | 🐛 542 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,016 | 🐛 4,682 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,533 | 🐛 542 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,592 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,404 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 534 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
