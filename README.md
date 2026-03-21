@@ -18,7 +18,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Languages
 
-* [JSFuck](https://github.com/aemkei/jsfuck) ⭐ 8,581 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Esoteric programming style based on the atomic parts of JavaScript.
+* [JSFuck](https://github.com/aemkei/jsfuck) ⭐ 8,580 | 🐛 38 | 🌐 JavaScript | 📅 2025-03-10 - Esoteric programming style based on the atomic parts of JavaScript.
 * [Vigil](https://github.com/munificent/vigil) ⭐ 3,027 | 🐛 26 | 🌐 Python | 📅 2022-09-26 - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) ⭐ 1,619 | 🐛 34 | 🌐 JavaScript | 📅 2023-05-08 - Non deterministic unnecessarily statically typed language.
 * [Fetlang](https://github.com/Property404/fetlang) ⭐ 1,497 | 🐛 10 | 🌐 C++ | 📅 2024-05-02 - Designed such that source code looks like poorly written fetish erotica.
@@ -32,8 +32,8 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [Electra](https://github.com/DolphyWind/Electra-Lang) ⭐ 100 | 🐛 1 | 🌐 C++ | 📅 2025-11-22 - Code like an electrician.
 * [Rockstar](https://github.com/dylanbeattie/rockstar) ⭐ 90 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-15 - Designed for creating computer programs that are also song lyrics.
 * [Japt](https://github.com/ETHproductions/japt) ⭐ 76 | 🐛 21 | 🌐 JavaScript | 📅 2021-05-27 - Reduced JavaScript for golfing.
+* [ChuckScript](https://github.com/angrykoala/chuckscript) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03 - Unary-based language, where the code is a single number.
 * [Thue](https://github.com/jcolag/Thue) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2025-10-09 - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
-* [ChuckScript](https://github.com/angrykoala/chuckscript) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2016-08-03 - Unary-based language, where the code is a single number.
 * [C Flat](https://github.com/NicksterSand/Cflat) ⭐ 30 | 🐛 1 | 🌐 C | 📅 2021-01-01 - Musical language focused on sound rather than notation with creative freedom in mind.
 * [AlmostBinary](https://github.com/wsdt/AlmostBinary) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2023-03-31 - Code in binary and run on any platform.
 * [CellTail](https://github.com/mousetail/celltail) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2023-09-19 - A 1d celular automata based language, supports a complex pattern matching syntax.
@@ -95,8 +95,8 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,028 | 🐛 4,691 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,548 | 🐛 542 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,033 | 🐛 4,693 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,552 | 🐛 542 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,591 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,404 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 535 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
