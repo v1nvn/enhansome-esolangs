@@ -90,14 +90,14 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Algorithms
 
-* [πfs](https://github.com/philipl/pifs) ⭐ 6,885 | 🐛 56 | 🌐 C | 📅 2019-12-31 - Pi-based storage system, store your data by searching a matching sequence in pi.
+* [πfs](https://github.com/philipl/pifs) ⭐ 6,887 | 🐛 56 | 🌐 C | 📅 2019-12-31 - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,121 | 🐛 4,700 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,578 | 🐛 545 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
-* [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,591 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,128 | 🐛 4,701 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,584 | 🐛 545 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,592 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
 * [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,403 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 535 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
 * [asmbf](https://github.com/kspalaiologos/asmbf) ⚠️ Archived - The only true brainfuck assembler toolkit.
