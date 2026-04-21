@@ -46,7 +46,7 @@ Curated list of awesome esoteric programming languages, resources and related pr
 * [RASEL](https://github.com/Nakilon/rasel) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-12-02 - Fungeoid with no limits on program space, float precision, and with a bit of random access to stack.
 * [Tru](https://github.com/sungwoncho/tru) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2020-08-09 - A stack-based language with prefix-free brackets.
 * [Turtle](https://github.com/TypeMonkey/Turtle) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2020-04-13 - Uses long-term storage for memory use.
-* [Benedictum](https://github.com/Beneking102/benedictum) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2026-03-14 - Latin-themed Brainfuck derivative where source code reads as prayer.
+* [Benedictum](https://github.com/Beneking102/benedictum) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-03-14 - Latin-themed Brainfuck derivative where source code reads as prayer.
 * [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
 * [1+](https://esolangs.org/wiki/1%2B) - A surprisingly user-friendly language with a highly-limited instruction set.
 * [ajsone](https://www.quaxio.com/ajsone) - Language defined completely in JSON.
@@ -90,15 +90,15 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Algorithms
 
-* [πfs](https://github.com/philipl/pifs) ⭐ 6,897 | 🐛 56 | 🌐 C | 📅 2026-04-01 - Pi-based storage system, store your data by searching a matching sequence in pi.
+* [πfs](https://github.com/philipl/pifs) ⭐ 6,896 | 🐛 56 | 🌐 C | 📅 2026-04-01 - Pi-based storage system, store your data by searching a matching sequence in pi.
 * [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ## Others
 
-* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,197 | 🐛 4,711 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
-* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,612 | 🐛 545 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
+* [NoCode](https://github.com/kelseyhightower/nocode) ⭐ 65,198 | 🐛 4,711 | 🌐 Dockerfile | 📅 2024-08-07 - Secure and reliable applications. Write nothing; deploy nowhere.
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,615 | 🐛 545 | 🌐 Java | 📅 2024-07-15 - Simple FizzBuzz game implemented under the most strict enterprise standards.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) ⭐ 6,587 | 🐛 14 | 🌐 Ruby | 📅 2023-09-08 - A truly monstrous async web chat using no JS whatsoever on the frontend.
-* [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,405 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
+* [vapor.js](https://github.com/madrobby/vapor.js) ⭐ 1,406 | 🐛 62 | 🌐 JavaScript | 📅 2022-07-19 - The World's Smallest & Fastest JavaScript Library.
 * [MalbolgeLisp](https://github.com/kspalaiologos/malbolge-lisp) ⭐ 544 | 🐛 0 | 🌐 TeX | 📅 2025-08-05 - A Lisp interpreter in Malbolge Unshackled.
 * [asmbf](https://github.com/kspalaiologos/asmbf) ⚠️ Archived - The only true brainfuck assembler toolkit.
 * [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) - Operating System concept based on random actions and rewards/punishments.
