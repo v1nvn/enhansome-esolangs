@@ -534,7 +534,7 @@
             "last_commit": "2022-09-26T22:21:21Z",
             "owner": "munificent",
             "repo": "vigil",
-            "stars": 3031
+            "stars": 3032
           }
         },
         {
@@ -635,7 +635,7 @@
             "last_commit": "2025-08-05T19:13:30Z",
             "owner": "iczelia",
             "repo": "malbolge-lisp",
-            "stars": 546
+            "stars": 547
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65260
+            "stars": 65264
           }
         },
         {
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:35:50.589Z",
+    "last_updated": "2026-05-11T05:57:38.802Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "source_repository": "v1nvn/enhansome-esolangs",
     "source_repository_description": null,
