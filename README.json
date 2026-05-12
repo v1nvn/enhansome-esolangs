@@ -319,7 +319,7 @@
             "last_commit": "2025-03-10T08:15:33Z",
             "owner": "aemkei",
             "repo": "jsfuck",
-            "stars": 8586
+            "stars": 8587
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2023-09-08T09:40:31Z",
             "owner": "kkuchta",
             "repo": "css-only-chat",
-            "stars": 6590
+            "stars": 6591
           }
         },
         {
@@ -622,7 +622,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23646
+            "stars": 23649
           }
         },
         {
@@ -635,7 +635,7 @@
             "last_commit": "2025-08-05T19:13:30Z",
             "owner": "iczelia",
             "repo": "malbolge-lisp",
-            "stars": 547
+            "stars": 548
           }
         },
         {
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:57:38.802Z",
+    "last_updated": "2026-05-12T05:37:09.977Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "source_repository": "v1nvn/enhansome-esolangs",
     "source_repository_description": null,
