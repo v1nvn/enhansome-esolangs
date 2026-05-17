@@ -365,7 +365,7 @@
             "last_commit": "2025-11-23T18:29:36Z",
             "owner": "esseks",
             "repo": "monicelli",
-            "stars": 1379
+            "stars": 1378
           }
         },
         {
@@ -544,7 +544,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-16T04:46:30Z",
+            "last_commit": "2026-05-16T08:58:42Z",
             "owner": "genkami",
             "repo": "watson",
             "stars": 270
@@ -648,7 +648,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65282
+            "stars": 65283
           }
         },
         {
@@ -674,7 +674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:26:06.887Z",
+    "last_updated": "2026-05-17T05:47:00.227Z",
     "original_repository": "angrykoala/awesome-esolangs",
     "source_repository": "v1nvn/enhansome-esolangs",
     "source_repository_description": null,
